@@ -1,0 +1,57 @@
+body{
+    margin: 5px;
+    background-color: #BEE5B0;
+}
+
+.title {
+    text-align: center; 
+    font-size: 100px;
+    Text-shadow:
+     3px  3px 0 #000,
+    -1px -1px 0 #000,  
+     1px -1px 0 #000,
+    -1px  1px 0 #000,
+     1px  1px 0 #000;
+    color: white;
+    font-family: Verdana, Geneva, Tahoma, sans-serif; 
+    background-image: url(https://hips.hearstapps.com/hmg-prod.s3.amazonaws.com/images/lead-1568383304.jpg);
+    height: 200px;
+    background-size: cover;
+    background-repeat: no-repeat;
+    background-position: center; 
+
+    
+    }
+
+
+.leaf{
+    width: 2.5em;
+    height: 2.5em;
+}
+
+
+.bi bi-cart{
+    position: end;
+    margin-left: 5px;
+}
+
+.form-control me-2{
+    margin-right: 5px;
+}
+
+.row{
+    background-color: whitesmoke;
+    z-index: 1;
+    margin-top: .7em;
+    margin: 5px;
+}
+
+.card{
+    margin-bottom: 10px;
+
+}
+
+.orderitem{
+    width: 235px;
+    height: 200px;
+}
